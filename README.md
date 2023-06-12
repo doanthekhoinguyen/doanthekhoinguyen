@@ -1,6 +1,8 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Hi , I'm Khoi Nguyen Doan</h1>
 <h3 align="center">A passionate Android Developer</h3>
 <h4 align="center"> I am actively seeking an internship opportunity to further develop my knowledge and skills.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=doanthekhoinguyen&label=Profile%20views&color=0e75b6&style=flat" alt="doanthekhoinguyen" /> </p>
 
