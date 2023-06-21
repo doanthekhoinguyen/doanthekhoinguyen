@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=doanthekhoinguyen&label=Profile%20views&color=0e75b6&style=flat" alt="doanthekhoinguyen" /> </p>
 
-- 🔭 I’m currently a junior student at Ton Duc Thang University.Major in Computer Science [s](s)
+- 🔭 I’m currently a junior student at Ton Duc Thang University.Major in Computer Science 
 
 - 🌱 I’m currently learning **Flutter**
 
