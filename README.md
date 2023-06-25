@@ -6,11 +6,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=doanthekhoinguyen&label=Profile%20views&color=0e75b6&style=flat" alt="doanthekhoinguyen" /> </p>
 
-- 🔭 I’m currently a junior student at Ton Duc Thang University.Major in Computer Science 
+- 🔭 I’m currently a junior student at Ton Duc Thang University. Major in Computer Science 
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Android,Flutter**
+- 💬 Ask me about **Android,Flutter,Mobile Development**
 
 - 📫 How to reach me **doanthekhoinguyen.dev@gmail.com**
 
