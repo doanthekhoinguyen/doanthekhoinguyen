@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently a junior student at Ton Duc Thang University. Major in Computer Science 
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter Course**
 
 - 💬 Ask me about **Android,Flutter,Mobile Development**
 
