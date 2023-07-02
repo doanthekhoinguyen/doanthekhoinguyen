@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Flutter Course**
 
-- 💬 Ask me about **Android,Flutter,Mobile Development**
+- 💬 Ask me about **Android,Flutter**
 
 - 📫 How to reach me **doanthekhoinguyen.dev@gmail.com**
 
