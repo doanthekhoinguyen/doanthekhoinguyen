@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi , I'm Khoi Nguyen Doan</h1>
-<h3 align="center">A passionate Android/Flutter Developer</h3>
+<h3 align="center">A passionate Mobile Developer</h3>
 <h4 align="center"> I am actively seeking an internship opportunity to further develop my knowledge and skills.</h3>
 
 
