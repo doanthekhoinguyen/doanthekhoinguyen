@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi , I'm Khoi Nguyen Doan</h1>
+<h1 align="center">Hi , I'm Khoi Nguyen </h1>
 <h3 align="center">A passionate Mobile Developer</h3>
 <h4 align="center"> I am actively seeking an internship opportunity to further develop my knowledge and skills.</h3>
 
