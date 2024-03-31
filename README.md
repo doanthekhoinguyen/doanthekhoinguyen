@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi , I'm Khoi Nguyen </h1>
-<h3 align="center">A passionate Mobile Developer</h3>
-<h4 align="center"> I am actively seeking an internship opportunity to further develop my knowledge and skills in mobile development.</h3>
+<h3 align="center">A passionate Mobile/Game Developer</h3>
+<h4 align="center">I am keenly interested in seeking internship or full-time employment opportunities where I can apply and further enhance my knowledge and skills. I am committed to working diligently, continuously learning, and making a positive contribution to the organization's growth.</h3>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=doanthekhoinguyen&label=Profile%20views&color=0e75b6&style=flat" alt="doanthekhoinguyen" /> </p>
