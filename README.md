@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi , I'm Khoi Nguyen </h1>
 <h3 align="center">A passionate Mobile/Game Developer</h3>
-<h4 align="center">I am keenly interested in seeking internship or full-time employment opportunities where I can apply and further enhance my knowledge and skills..</h3>
+<h4 align="center">I am keenly interested in seeking internship or full-time employment opportunities where I can apply and further enhance my knowledge and skills</h3>
 <h4 align="center">I am committed to working diligently, continuously learning, and making a positive contribution to the organization's growth.</h3>
 
 
@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently a senior student at Ton Duc Thang University with  major in Computer Science 
 
-- 🌱 I’m currently learning **Flutter Course**
+- 🌱 I’m currently learning **Flutter Course**,**Unity Course**
 
-- 💬 Ask me about **Android,Flutter**
+- 💬 Ask me about **Android,Flutter,Unity**
 
 - 📫 How to reach me **doanthekhoinguyen.dev@gmail.com**
 
