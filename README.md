@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi , I'm Khoi Nguyen </h1>
-<h3 align="center">A passionate Mobile/Game Developer</h3>
-<h4 align="center">I am keenly interested in seeking internship or full-time employment opportunities where I can apply and further enhance my knowledge and skills</h3>
+<h3 align="center">A passionate Developer</h3>
 <h4 align="center">I am committed to working diligently, continuously learning, and making a positive contribution to the organization's growth.</h3>
 
 
